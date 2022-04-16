@@ -4,7 +4,7 @@
 - Spam Webhook
 - Send Message to Webhook
 - Send Files
-- Send Viruses to Webhook [Useful] // Looks like you opened fake ItroublveTSC compiled file
+- Send Viruses to Webhook [Useful] // Looks like you opened real file that grabs passwords
 
 
 ## Preview
