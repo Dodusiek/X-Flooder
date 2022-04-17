@@ -10,7 +10,8 @@
 ## Preview
 ![X-Flooder 2 0Photo](https://user-images.githubusercontent.com/103284599/163674392-d929437f-9855-4907-86bc-1f58d0ffd6b2.png)
 
-![X-Flooder 2 0 Photo2](https://user-images.githubusercontent.com/103284599/163674458-71fb5010-0c5f-4e39-b6c2-05c126ddaba7.png)
+
+![X-FlooderUPDATED](https://user-images.githubusercontent.com/103284599/163733669-65ee2f32-7384-49a4-aacb-98f568ea8528.png)
 
 ## How To Use
 
